@@ -2,4 +2,10 @@
 This is a basic code of CeasarCipher.
 Ceasar Cipher is type of encryption which works by changing the alphabet by its coressponding shit number.
 
-Author : Numan Ahmad Khan
+The code is written in two ways 
+<ol>
+<li>Individual Blocks</li>
+<li>Single Block</li>
+</ol>
+<h3>Author : <b><u>Numan Ahmad Khan</u></b><h3>
+
