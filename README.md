@@ -1,6 +1,6 @@
 # Ceasar_Cipher
 This is a basic code of CeasarCipher.
-Ceasar Cipher is type of encryption which works by changing the alphabet by its coressponding shft number.
+Ceasar Cipher is type of encryption which works by changing the alphabet by its coressponding shift number.
 
 The code is written in two ways:
 <ol>
