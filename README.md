@@ -1,8 +1,8 @@
 # Ceasar_Cipher
 This is a basic code of CeasarCipher.
-Ceasar Cipher is type of encryption which works by changing the alphabet by its coressponding shit number.
+Ceasar Cipher is type of encryption which works by changing the alphabet by its coressponding shft number.
 
-The code is written in two ways 
+The code is written in two ways:
 <ol>
 <li>Individual Blocks</li>
 <li>Single Block</li>
