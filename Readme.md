@@ -62,5 +62,3 @@ python3 main.py
 ---
 
 *Built with Python to explore basic cryptography, string manipulation, and programming fundamentals.*
-
-**Note:** Update the filenames in the project structure or run command if your repository uses different names. The repository contents could not be verified reliably, so these details should be checked before committing.
